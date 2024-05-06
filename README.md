@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Dhuliya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img algin="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.economictimes.com%2Fprime%2Ftechnology-and-startups%2Fbooting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster%2Fprimearticleshow%2F84146083.cms&psig=AOvVaw0PFYr0X80EFtw2K0DDy4FS&ust=1715076689588000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMj_9dnk-IUDFQAAAAAdAAAAABAY">
+<img algin="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushdhulia&label=Profile%20views&color=0e75b6&style=flat" alt="ayushdhulia" /> </p>
 
