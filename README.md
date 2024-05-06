@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushdhulia&label=Profile%20views&color=0e75b6&style=flat" alt="ayushdhulia" /> </p>
 
-- 💬 Ask me about **html,css, js**
+- 💬 Ask me about **html,css,c,c++,js**
 
 - 📫 How to reach me **ayushhuliya22@Gmail.com**
 
