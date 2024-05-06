@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Dhuliya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img algin="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr7ZgZdz1L2KE8ielEbzKApte3kIznM2o9k462THcs1A&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushdhulia&label=Profile%20views&color=0e75b6&style=flat" alt="ayushdhulia" /> </p>
 
